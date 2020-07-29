@@ -7,11 +7,11 @@
   .menu {
     height: 100vh;
     width: 200px;
-    margin-right: 1rem;
     padding: 1rem;
     display: flex;
     flex-direction: column;
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.3);
+    z-index: 1;
   }
 
   .menu-footer {
